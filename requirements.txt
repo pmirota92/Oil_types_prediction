@@ -1,8 +1,8 @@
-streamlit
-pandas
-numpy
-matplotlib
-plotly
-missingno
-scikit-learn
-imbalanced-learn
+streamlit==1.26.0
+pandas==2.0.1
+numpy==1.25.0
+matplotlib==3.8.0
+plotly==5.15.0
+missingno==0.5.1
+scikit-learn==1.2.2
+imbalanced-learn==0.10.1
